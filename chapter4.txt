@@ -1,1 +1,2 @@
-lets see, if it works or not
+lets see, if it works or not, 
+i think it is working, and i understood how branching workes in git. 
